@@ -34,7 +34,8 @@ header {
     justify-content: center;
     align-items: center;
     width: 100%;
-    height: 450px;
+    min-height: 50%;
+    max-height: ;
     background: url(https://icanchoose.ru/file/resources/5a66fecd.png) top/cover no-repeat;
     opacity: 0.8;
 
@@ -142,6 +143,7 @@ header {
     justify-content: center;
     align-items: stretch;
     width:260px;
+    max-height:500px ;
     margin-right: 15px;
     /* height: 500px; */
     /* border: 2px solid red; */
